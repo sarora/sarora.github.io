@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Sid
+title: Sidd
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username:   # Leave blank if you don't have now
   twitter_username: digmedata  # Leave blank if you don't have now
   email: sidd_99@hotmail.com  # Leave blank if you don't have now
-  cv: /static/assets/img/landing/SiddProfile.jpg  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: /static/assets/content/SiddharthAroraGeneralCV.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -28,6 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
+    
   desc: Hi, I am Siddharth. I am a Software Developer, and a Data Scientist in Training.  # Describe yourself.
 
 # comment
