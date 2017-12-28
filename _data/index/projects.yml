@@ -5,7 +5,7 @@
   i18n: C#
   gh_user: sarora
   repo: 314Kinect
-  img: /static/assets/img/landing/kinetic-ui.png
+  img: /static/assets/img/landing/kinect-ui.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
 - name: Python
