@@ -5,7 +5,7 @@
 - name: Signite
   url:  https://github.com/sarora/314Kinect
   img: /static/assets/img/landing/kinect-ui.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: A group project, developed for COMP314: Software Engineering Project. Allows instructors to teach signs to the software, which in turn can evaluate students on their performance of the same sign.
 
 - name: Google
   i18n: google
