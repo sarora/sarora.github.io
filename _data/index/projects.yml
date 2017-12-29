@@ -2,18 +2,9 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-
 - name: Signite
-  url:  https://github.com/sarora/314Kinect
-  img:  /static/assets/img/landing/kinect-ui.png
-  desc: A group project, developed for COMP314: Software Engineering Project.
-
-
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
+  url: https://github.com/sarora/314Kinect
+  img: /static/assets/img/landing/kinect-ui.png
   desc: This project is other's project. I use another request to get repo's information.
 
 - name: Google
