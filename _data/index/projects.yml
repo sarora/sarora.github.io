@@ -3,10 +3,11 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Signite
   i18n: C#
-  gh_user: sarora
-  repo: 314Kinect
+  url: https://github.com/sarora/314Kinect
   img: /static/assets/img/landing/kinect-ui.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: A group project, developed for COMP314: Software Engineering Project. Allows instructors to teach signs to the software, which in turn can evaluate students on their performance of the same sign.
+        Each sign is modelled via HMMs (Hidden Markov Models) using the skeleton frame data provided by Microsoft Kinect.
+        Project requirements were gathered by holding interviews with an expert deaf instructor and members of the deaf community.
 
 - name: Python
   i18n: cpython
