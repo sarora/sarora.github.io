@@ -5,8 +5,9 @@
   i18n: C#
   url: https://github.com/sarora/314Kinect
   img: /static/assets/img/landing/kinect-ui.png
-  desc: A group project, developed for COMP314: Software Engineering Project. Allows instructors to teach signs to the software, which in turn can evaluate students on their performance of the same sign.Each sign is modelled via HMMs (Hidden Markov Models) using the skeleton frame data provided by Microsoft Kinect. Project requirements were gathered by holding interviews with an expert deaf instructor and members of the deaf community.
+  desc: A group project, developed for COMP314: Software Engineering Project.
 
+  
 - name: Python
   i18n: cpython
   gh_user: python
