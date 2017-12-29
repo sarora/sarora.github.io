@@ -10,11 +10,10 @@
         Each sign is modelled via HMMs (Hidden Markov Models) using the skeleton frame data provided by Microsoft Kinect.
         Project requirements were gathered by holding interviews with an expert deaf instructor and members of the deaf community.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: TopGearElectrified
+  url: https://github.com/sarora/242TopGearElectrified
+  img: /static/assets/img/landing/topgear.jpg
+  desc: A group project, developed for COMP242 (Software Engineering Process). A multiplayer on-rails 3D car Racing simulation, developed in C#, using the XNA framework.
 
 - name: Google
   i18n: google
