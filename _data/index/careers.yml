@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Unbounce
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: As a part of industry capstone project, I worked at Unbounce as a data scientist
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Apr. 2018 - Jun 2018
     i18n: company_a_date
   job:
     detail: CTO
