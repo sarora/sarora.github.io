@@ -4,11 +4,7 @@
     detail: <a href="https://brewbound.co.nz" target="_blank">BrewBound</a>
     i18n: company_a
   desc:
-    detail: As a part of industry capstone project, <ul style="list-style-type:disc">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+    detail: As a part of industry capstone project, <ul style="list-style-type:disc">   <li>Coffee</li>   <li>Tea</li>   <li>Milk</li> </ul>
     i18n: company_a_desc
   date:
     detail: May 2016 - Dec 2016
