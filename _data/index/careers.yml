@@ -52,16 +52,16 @@
   icon: fa-plus-square
 
 - name:
-    detail: <a title= "orionhealth.com" href="https://orionhealth.com/" target="_blank">Orion Health) | Auckland, New Zealand</a>
+    detail: <a title= "orionhealth.com" href="https://orionhealth.com/" target="_blank">Orion Health | Auckland, New Zealand</a>
     i18n: company_d
   desc:
-    detail: Working in a team as well as individually <ul style="list-style-type:disc">
+    detail: Working in a team of 2 <ul style="list-style-type:disc">
       <li>Developed and updated functionalities for IMS Health’s Nexxus Mobile Intelligence - a CRM solution, that helps drive customer engagement for live sciences industry using C#, JavaScript, XML. <br/><br/></li>
       <li>Performed maintenance and bug fixing on the existing code base to ensure production quality software. <br/><br/></li>
       <li>Participated in daily stand-ups and bi-weekly sprint meetings in an Agile setup and developed interpersonal skills. </li> </ul>
     i18n: company_d_desc
   date:
-    detail: Nov 2011 - Feb 2012 and Nov 2012 - Feb 2013 
+    detail: Nov 2011 - Feb 2012 and Nov 2012 - Feb 2013
     i18n: company_d_date
   job:
     detail: Intern

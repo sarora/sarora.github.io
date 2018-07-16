@@ -2,5 +2,10 @@
 
 label: Ability
 id : cs
-aspects:  SQL, Python, R, Machine Learing, C#, GitHub, Jira, Microsoft SVN, HTML,XML, JavaScript
-percentage: 100, 80, 85, 70, 90, 100, 100,100,90,100,80
+aspects:  SQL, Python, R, Machine Learning, C#, GitHub, Jira, Microsoft SVN, HTML,XML, JavaScript, Agile
+percentage: 100, 80, 85, 70, 90, 100, 100,100,90,100,80,100
+
+label: Ability
+id : cs
+aspects:  SQL, Python, R, Machine Learning, C#, GitHub, Jira, Microsoft SVN, HTML,XML, JavaScript, Agile
+percentage: 100, 80, 85, 70, 90, 100, 100,100,90,100,80,100
