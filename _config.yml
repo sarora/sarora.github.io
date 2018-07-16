@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
 
-  desc: Hi, I am Siddharth. I am a Data Scientist with background in software development.  # Describe yourself.
+  desc: A Data Scientist with a background in software development. Recently completed the Masters of Data Science program at the University of British Columbia.   # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
