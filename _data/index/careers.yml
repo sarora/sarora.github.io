@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Brewbound
+    detail: BrewBound
     i18n: company_a
   desc:
-    detail: Working in a team of 2, my job responsibilities included:
+    detail: As a part of industry capstone project, I worked at Unbounce as a <a href="url">link text</a>
     i18n: company_a_desc
   date:
-    detail: May 2017 - Jun 2018
+    detail: Apr. 2018 - Jun 2018
     i18n: company_a_date
   job:
-    detail: Data Analyst (Contract)
+    detail: Data Scientist (Industry Capstone Project)
     i18n: company_a_job
   icon: fa-plus-square
 
