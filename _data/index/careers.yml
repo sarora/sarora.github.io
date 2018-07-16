@@ -7,10 +7,10 @@
     detail: As a part of industry capstone project, I worked at Unbounce as a <a href="url">link text</a>
     i18n: company_a_desc
   date:
-    detail: Apr. 2018 - Jun 2018
+    detail: May 2016 - Dec 2016
     i18n: company_a_date
   job:
-    detail: Data Scientist (Industry Capstone Project)
+    detail: Data Analyst (Contract)
     i18n: company_a_job
   icon: fa-plus-square
 
