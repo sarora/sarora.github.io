@@ -29,7 +29,8 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
 
-  desc: A Data Scientist with a strong interest in programming, and predictive analytics. Recently completed the Masters of Data Science program at the University of British Columbia.  <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver, Canada</a>   # Describe yourself.
+  desc: A Data Scientist with a strong interest in programming, and predictive analytics. Recently completed the Masters of Data Science program at the University of British Columbia.
+        <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver, Canada</a>   # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
