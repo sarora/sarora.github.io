@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound: An e-commerce startup providing fast online liquor delivery service in New Zealand </a>
+    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound- An e-commerce startup providing fast online liquor delivery service in New Zealand </a>
     i18n: company_a
   desc:
     detail: Working in a team of 2 my responsibilities included: <ul style="list-style-type:disc">
