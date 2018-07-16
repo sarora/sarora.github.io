@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce, Vancouver, Canada</a>
+    detail: <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver | Canada</a>
     i18n: company_a
   desc:
     detail: Working in a team of 4 <ul style="list-style-type:disc">
@@ -18,8 +18,8 @@
   icon: fa-plus-square
 
 - name:
-    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound, Auckland, New Zealand</a>
-    i18n: company_a
+    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound | Auckland | New Zealand</a>
+    i18n: company_b
   desc:
     detail: Working in a team of 2 <ul style="list-style-type:disc">
       <li>Designed and maintained SQL scripts on a regular basis to generate meaningful datasets from marketing data. <br/><br/></li>
@@ -28,22 +28,22 @@
     i18n: company_a_desc
   date:
     detail: May 2016 - Dec 2016
-    i18n: company_a_date
+    i18n: company_b_date
   job:
     detail: Data Analyst (Contract)
-    i18n: company_a_job
+    i18n: company_b_job
   icon: fa-plus-square
 
 - name:
     detail: Company B
-    i18n: company_b
+    i18n: company_c
   desc:
     detail: I worked at Company B ...
-    i18n: company_b_desc
+    i18n: company_c_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
     detail: Full Stack Developer
-    i18n: company_b_job
+    i18n: company_c_job
   icon: fa-plus-square
