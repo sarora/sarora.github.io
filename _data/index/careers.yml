@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver | Canada</a>
+    detail: <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver, Canada</a>
     i18n: company_a
   desc:
     detail: Working in a team of 4 <ul style="list-style-type:disc">
@@ -18,7 +18,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound | Auckland | New Zealand</a>
+    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound | Auckland, New Zealand</a>
     i18n: company_b
   desc:
     detail: Working in a team of 2 <ul style="list-style-type:disc">
@@ -35,10 +35,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: <a title= "iqvia.com" href="https://www.iqvia.com/" target="_blank">IMS Health (now IQVIA) | Auckland | New Zealand</a>
+    detail: <a title= "iqvia.com" href="https://www.iqvia.com/" target="_blank">IMS Health (now IQVIA) | Auckland, New Zealand</a>
     i18n: company_c
   desc:
-    detail: Working in a team of 2 <ul style="list-style-type:disc">
+    detail: Working in a team as well as individually <ul style="list-style-type:disc">
       <li>Developed and updated functionalities for IMS Health’s Nexxus Mobile Intelligence - a CRM solution, that helps drive customer engagement for live sciences industry using C#, JavaScript, XML. <br/><br/></li>
       <li>Performed maintenance and bug fixing on the existing code base to ensure production quality software. <br/><br/></li>
       <li>Participated in daily stand-ups and bi-weekly sprint meetings in an Agile setup and developed interpersonal skills. </li> </ul>
@@ -47,6 +47,23 @@
     detail: May 2016 - Dec 2016
     i18n: company_c_date
   job:
-    detail: Data Analyst (Contract)
+    detail: Software Engineer
     i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a title= "orionhealth.com" href="https://orionhealth.com/" target="_blank">Orion Health) | Auckland, New Zealand</a>
+    i18n: company_d
+  desc:
+    detail: Working in a team as well as individually <ul style="list-style-type:disc">
+      <li>Developed and updated functionalities for IMS Health’s Nexxus Mobile Intelligence - a CRM solution, that helps drive customer engagement for live sciences industry using C#, JavaScript, XML. <br/><br/></li>
+      <li>Performed maintenance and bug fixing on the existing code base to ensure production quality software. <br/><br/></li>
+      <li>Participated in daily stand-ups and bi-weekly sprint meetings in an Agile setup and developed interpersonal skills. </li> </ul>
+    i18n: company_d_desc
+  date:
+    detail: May 2016 - Dec 2016 | May 2016 - Dec 2016 
+    i18n: company_d_date
+  job:
+    detail: Intern
+    i18n: company_d_job
   icon: fa-plus-square
