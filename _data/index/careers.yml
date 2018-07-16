@@ -25,7 +25,7 @@
       <li>Designed and maintained SQL scripts on a regular basis to generate meaningful datasets from marketing data. <br/><br/></li>
       <li>Identified trends, patterns, and relationships in marketing data to provide answers to business questions, particularly regarding the effectiveness of various advertising channels. <br/><br/></li>
       <li>Communicated findings to key decision makers to help facilitate the decision making process.</li> </ul>
-    i18n: company_a_desc
+    i18n: company_b_desc
   date:
     detail: May 2016 - Dec 2016
     i18n: company_b_date
@@ -35,15 +35,18 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: <a title= "iqvia.com" href="https://www.iqvia.com/" target="_blank">IMS Health (now IQVIA) | Auckland | New Zealand</a>
     i18n: company_c
   desc:
-    detail: I worked at Company B ...
+    detail: Working in a team of 2 <ul style="list-style-type:disc">
+      <li>Developed and updated functionalities for IMS Health’s Nexxus Mobile Intelligence - a CRM solution, that helps drive customer engagement for live sciences industry using C#, JavaScript, XML. <br/><br/></li>
+      <li>Performed maintenance and bug fixing on the existing code base to ensure production quality software. <br/><br/></li>
+      <li>Participated in daily stand-ups and bi-weekly sprint meetings in an Agile setup and developed interpersonal skills. </li> </ul>
     i18n: company_c_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: May 2016 - Dec 2016
+    i18n: company_c_date
   job:
-    detail: Full Stack Developer
+    detail: Data Analyst (Contract)
     i18n: company_c_job
   icon: fa-plus-square
