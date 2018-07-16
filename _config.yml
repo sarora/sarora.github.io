@@ -29,11 +29,10 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
 
-  desc: A Data Scientist with background in software development. I have a strong interest in programming, and predictive analytics.  I have honed my programming skills by working as a software developer for three years
+  desc: A Data Scientist with background in software development skilled in programming, and predictive analytics.<br></br> I have honed my programming skills by working as a software developer for three years
         and have enhanced my knowledge of predictive analytics by recently completing the <a title= "masterdatascience.science.ubc.ca" href="https://masterdatascience.science.ubc.ca/" target="_blank">Master of Data Science</a>
         program at the University of British Columbia.<br></br>
-        In particular, I have a keen interest in developing robust, scalable data pipelines and using analytics to extract key insights from large data sets.
-        I am also passionate about clearly communicating these results to broader, non-technical audiences.
+        I am interested in translating real-life business problems to scalable data science solutions.
 
 
            # Describe yourself.
