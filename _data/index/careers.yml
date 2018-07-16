@@ -4,7 +4,10 @@
     detail: <a href="https://brewbound.co.nz" target="_blank">BrewBound - An e-commerce startup providing fast online liquor delivery service in New Zealand </a>
     i18n: company_a
   desc:
-    detail: Working in a team of 2 my responsibilities included:, <ul style="list-style-type:disc">   <li>Designed and maintained SQL scripts on a regular basis to generate meaningful datasets from marketing data.</li>   <li>Identified trends, patterns, and relationships in marketing data to provide answers to business questions, particularly regarding the effectiveness of various advertising channels</li>  <li>Communicated findings to key decision makers to help facilitate the decision making process.</li> </ul>
+    detail: Working in a team of 2 my responsibilities included:, <ul style="list-style-type:disc">
+      <li>Designed and maintained SQL scripts on a regular basis to generate meaningful datasets from marketing data. <br/><br/></li> 
+      <li>Identified trends, patterns, and relationships in marketing data to provide answers to business questions, particularly regarding the effectiveness of various advertising channels</li>
+      <li>Communicated findings to key decision makers to help facilitate the decision making process.</li> </ul>
     i18n: company_a_desc
   date:
     detail: May 2016 - Dec 2016
