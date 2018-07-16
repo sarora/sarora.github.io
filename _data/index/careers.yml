@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: [BrewBound](https://www.brewbound.co.nz)
+    detail: BrewBound
     i18n: company_a
   desc:
-    detail:  As a part of industry capstone project, I worked at Unbounce as a data scientist
+    detail:  As a part of industry capstone project, I worked at Unbounce as a data scientist [BrewBound](https://www.brewbound.co.nz)
     i18n: company_a_desc
   date:
     detail: Apr. 2018 - Jun 2018
