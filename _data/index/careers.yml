@@ -4,10 +4,10 @@
     detail: Brewbound
     i18n: company_a
   desc:
-    detail: Working in a team of 2, my job responsibilities included: <ul>li>Coffee</li> li>Tea</li> li>Milk</li> </ul>
+    detail: Working in a team of 2, my job responsibilities included:
     i18n: company_a_desc
   date:
-    detail: May. 2017 - Jun 2018
+    detail: May 2017 - Jun 2018
     i18n: company_a_date
   job:
     detail: Data Analyst (Contract)
