@@ -1,10 +1,14 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: <a href="https://brewbound.co.nz">BrewBound</a>
+    detail: <a href="https://brewbound.co.nz" target="_blank">BrewBound</a>
     i18n: company_a
   desc:
-    detail: As a part of industry capstone project, I worked at Unbounce as a <a href="url">link text</a>
+    detail: As a part of industry capstone project, <ul style="list-style-type:disc">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
     i18n: company_a_desc
   date:
     detail: May 2016 - Dec 2016
