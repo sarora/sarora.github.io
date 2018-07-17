@@ -5,10 +5,10 @@
 - name: Signite
   url:  https://github.com/sarora/314Kinect
   img: /static/assets/img/landing/kinect-ui.png
-  desc: A group project, developed for COMP314 (Software Engineering Project).
-        Allows instructors to teach signs to the software, which in turn can evaluate students on their performance of the same sign.
-        Each sign is modelled via HMMs (Hidden Markov Models) using the skeleton frame data provided by Microsoft Kinect.
-        Project requirements were gathered by holding interviews with an expert deaf instructor and members of the deaf community.
+  desc: Working in a team of 4 <ul style="list-style-type:disc">
+      <li>Gathered requirements by holding interviews with an expert deaf instructor, and members of the deaf community.  <br/><br/></li>
+      <li>Modeled each sign via Hidden Markov Models (HMM) - a statistical model, using the skeleton frame data provided by Microsoft Kinect. <br/><br/></li>
+      <li>Designed and developed a graphical user interface (GUI) using C# for users to effeciently interact with our software. </li> </ul>
 
 - name: TopGearElectrified
   url: https://github.com/sarora/242TopGearElectrified
