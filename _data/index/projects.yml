@@ -1,7 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-
 - name: Signite - Learning sign language through Microsoft Kinect
   url: https://github.com/sarora/314Kinect
   img: /static/assets/img/landing/kinect-ui.png
