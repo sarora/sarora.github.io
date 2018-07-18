@@ -24,7 +24,7 @@
     detail: A 10-month intensive program focused on developing statistics, computing, and machine learning expertise.
     i18n: company_b_desc
   date:
-    detail: Sep 2017 - June 2018
+    detail: Sep 2017 - Jun 2018
     i18n: company_b_date
   job:
     detail: Student
@@ -58,7 +58,7 @@
       <li>Participated in daily stand-ups and bi-weekly sprint meetings in an Agile setup and developed interpersonal skills. </li> </ul>
     i18n: company_d_desc
   date:
-    detail: May 2016 - Dec 2016
+    detail: Sep 2013 - Feb 2016
     i18n: company_d_date
   job:
     detail: Software Engineer
@@ -80,4 +80,21 @@
   job:
     detail: Intern
     i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a title= "papers.waikato.ac.nz/subjects/SWEN" href="https://papers.waikato.ac.nz/subjects/SWEN" target="_blank"> Bachelor of Engineering (Software) | University of Waikato, New Zealand</a>
+    i18n: company_f
+  desc:
+    detail: Working in a team of 2 <ul style="list-style-type:disc">
+      <li>Developed and integrated new custom defined Orion widgets as a proof of concept for Orion Health products using YUI - a JavaScript and CSS library.<br/><br/></li>
+      <li>Designed and developed test cases for functionalities of Orion Health's Web software to ensure verification and validation, and make testing similar components easier for other testers. <br/><br/></li>
+      <li>Automated the test cases using Sahi - a web automation testing tool.</li> </ul>
+    i18n: company_d_desc
+  date:
+    detail: Aug 2009 - Aug 2013
+    i18n: company_f_date
+  job:
+    detail: Student
+    i18n: company_f_job
   icon: fa-plus-square
