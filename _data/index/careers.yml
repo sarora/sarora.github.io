@@ -84,14 +84,14 @@
 
 - name:
       detail: <a title= "www.cms.waikato.ac.nz/careers/software-engineering" href="https://www.cms.waikato.ac.nz/careers/software-engineering" target="_blank">Bachelor of Engineering (Software) | University of Waikato, New Zealand</a>
-      i18n: company_b
+      i18n: company_f
     desc:
       detail: A 10-month intensive program focused on developing statistics, computing, and machine learning expertise.
-      i18n: company_b_desc
+      i18n: company_f_desc
     date:
       detail: Aug 2009 - Aug 2013
-      i18n: company_b_date
+      i18n: company_f_date
     job:
       detail: Student
-      i18n: company_b_job
+      i18n: company_f_job
     icon: fa-plus-square
