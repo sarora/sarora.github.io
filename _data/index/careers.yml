@@ -18,8 +18,25 @@
   icon: fa-plus-square
 
 - name:
-    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound | Auckland, New Zealand</a>
+    detail: <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver, Canada</a>
     i18n: company_b
+  desc:
+    detail: Working in a team of 4 <ul style="list-style-type:disc">
+      <li>Applied survival analysis methods and techniques to determine key factors in customer churn. <br/><br/></li>
+      <li>Automated the data pipelining infrastructure to extract and transform data into usable and integrous components. <br/><br/></li>
+      <li>Utilized easily decipherable visualizations to report findings to people with little statistical knowledge or non-technical background.</li> </ul>
+    i18n: company_b_desc
+  date:
+    detail: April 2018 - Jun 2018
+    i18n: company_b_date
+  job:
+    detail: Data Scientist (Industry Capstone Project)
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound | Auckland, New Zealand</a>
+    i18n: company_c
   desc:
     detail: Working in a team of 2 <ul style="list-style-type:disc">
       <li>Designed and maintained SQL scripts on a regular basis to generate meaningful datasets from marketing data. <br/><br/></li>
@@ -28,32 +45,32 @@
     i18n: company_b_desc
   date:
     detail: May 2016 - Dec 2016
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail: Data Analyst (Contract)
-    i18n: company_b_job
+    i18n: company_c_job
   icon: fa-plus-square
 
 - name:
     detail: <a title= "iqvia.com" href="https://www.iqvia.com/" target="_blank">IMS Health (now IQVIA) | Auckland, New Zealand</a>
-    i18n: company_c
+    i18n: company_d
   desc:
     detail: Working in a team as well as individually <ul style="list-style-type:disc">
       <li>Developed and updated functionalities for IMS Health’s Nexxus Mobile Intelligence - a CRM solution, that helps drive customer engagement for live sciences industry using C#, JavaScript, XML. <br/><br/></li>
       <li>Performed maintenance and bug fixing on the existing code base to ensure production quality software. <br/><br/></li>
       <li>Participated in daily stand-ups and bi-weekly sprint meetings in an Agile setup and developed interpersonal skills. </li> </ul>
-    i18n: company_c_desc
+    i18n: company_d_desc
   date:
     detail: May 2016 - Dec 2016
-    i18n: company_c_date
+    i18n: company_d_date
   job:
     detail: Software Engineer
-    i18n: company_c_job
+    i18n: company_d_job
   icon: fa-plus-square
 
 - name:
     detail: <a title= "orionhealth.com" href="https://orionhealth.com/" target="_blank">Orion Health | Auckland, New Zealand</a>
-    i18n: company_d
+    i18n: company_e
   desc:
     detail: Working in a team of 2 <ul style="list-style-type:disc">
       <li>Developed and integrated new custom defined Orion widgets as a proof of concept for Orion Health products using YUI - a JavaScript and CSS library.<br/><br/></li>
@@ -62,8 +79,8 @@
     i18n: company_d_desc
   date:
     detail: Nov 2011 - Feb 2012 and Nov 2012 - Feb 2013
-    i18n: company_d_date
+    i18n: company_e_date
   job:
     detail: Intern
-    i18n: company_d_job
+    i18n: company_e_job
   icon: fa-plus-square
