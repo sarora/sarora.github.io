@@ -22,7 +22,7 @@
         Visit <a title= "github.com/sarora/rate_wine_shiny" href="https://github.com/sarora/rate_wine_shiny" target="_blank">repo</a> for more details.
 
 - name: Social Standards and Salary Inclinations Study
-  repo: https://github.com/sarora/SocialSalaryStudy
+  url: https://github.com/sarora/SocialSalaryStudy
   img: /static/assets/img/landing/python.png
   desc: A group software development project, developed for an undergraduate course. A multiplayer on-rails 3D car Racing simulation, developed in C#, using the XNA framework.
         Visit <a title= "github.com/sarora/242TopGearElectrified" href="https://github.com/sarora/242TopGearElectrified" target="_blank">repo</a> for more details.
