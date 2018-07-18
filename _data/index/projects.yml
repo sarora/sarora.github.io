@@ -16,7 +16,7 @@
         Visit <a title= "github.com/sarora/242TopGearElectrified" href="https://github.com/sarora/242TopGearElectrified" target="_blank">repo</a> for more details.
 
 - name: Wine Selector
-  url: https://github.com/sarora/242TopGearElectrified
+  url: https://github.com/sarora/rate_wine_shiny
   img: /static/assets/img/landing/wineselector.jpg
   desc: An R shiny application developed for a Masters course to compare wine quality and price per country.
         Visit <a title= "github.com/sarora/rate_wine_shiny" href="https://github.com/sarora/rate_wine_shiny" target="_blank">repo</a> for more details.
