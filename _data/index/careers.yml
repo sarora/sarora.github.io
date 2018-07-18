@@ -82,7 +82,7 @@
     i18n: company_e_job
   icon: fa-plus-square
 
-  - name:
+- name:
       detail: <a title= "www.cms.waikato.ac.nz/careers/software-engineering" href="https://www.cms.waikato.ac.nz/careers/software-engineering" target="_blank">Bachelor of Engineering (Software) | University of Waikato, New Zealand</a>
       i18n: company_b
     desc:
