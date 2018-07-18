@@ -12,18 +12,17 @@
 - name: TopGearElectrified
   url: https://github.com/sarora/242TopGearElectrified
   img: /static/assets/img/landing/topgear.jpg
-  desc: A group project, developed for an undergraduate course. A multiplayer on-rails 3D car Racing simulation, developed in C#, using the XNA framework.
+  desc: A group software development project, developed for an undergraduate course. A multiplayer on-rails 3D car Racing simulation, developed in C#, using the XNA framework.
         Visit <a title= "github.com/sarora/242TopGearElectrified" href="https://github.com/sarora/242TopGearElectrified" target="_blank">repo</a> for more details.
 
 - name: Wine Selector
   url: https://github.com/sarora/rate_wine_shiny
   img: /static/assets/img/landing/wineselector.jpg
-  desc: An R shiny application developed for a Masters course to compare wine quality and price per country.
+  desc: An R shiny application developed to compare wine quality and price per country.
         Visit <a title= "github.com/sarora/rate_wine_shiny" href="https://github.com/sarora/rate_wine_shiny" target="_blank">repo</a> for more details.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: Social Standards and Salary Inclinations Study
+  repo: https://github.com/sarora/SocialSalaryStudy
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: A group software development project, developed for an undergraduate course. A multiplayer on-rails 3D car Racing simulation, developed in C#, using the XNA framework.
+        Visit <a title= "github.com/sarora/242TopGearElectrified" href="https://github.com/sarora/242TopGearElectrified" target="_blank">repo</a> for more details.

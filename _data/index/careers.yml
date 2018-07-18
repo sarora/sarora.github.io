@@ -18,19 +18,16 @@
   icon: fa-plus-square
 
 - name:
-    detail: <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver, Canada</a>
+    detail: <a title= "masterdatascience.science.ubc.ca" href="https://masterdatascience.science.ubc.ca/" target="_blank">Masters of Data Science | University of British Columbia, Canada</a>
     i18n: company_b
   desc:
-    detail: Working in a team of 4 <ul style="list-style-type:disc">
-      <li>Applied survival analysis methods and techniques to determine key factors in customer churn. <br/><br/></li>
-      <li>Automated the data pipelining infrastructure to extract and transform data into usable and integrous components. <br/><br/></li>
-      <li>Utilized easily decipherable visualizations to report findings to people with little statistical knowledge or non-technical background.</li> </ul>
+    detail: A 10-month intensive program focused on developing statistics, computing, and machine learning expertise.
     i18n: company_b_desc
   date:
-    detail: April 2018 - Jun 2018
+    detail: Sep 2017 - June 2018
     i18n: company_b_date
   job:
-    detail: Data Scientist (Industry Capstone Project)
+    detail: Student
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -84,3 +81,17 @@
     detail: Intern
     i18n: company_e_job
   icon: fa-plus-square
+
+  - name:
+      detail: <a title= "www.cms.waikato.ac.nz/careers/software-engineering" href="https://www.cms.waikato.ac.nz/careers/software-engineering" target="_blank">Bachelor of Engineering (Software) | University of Waikato, New Zealand</a>
+      i18n: company_b
+    desc:
+      detail: A 10-month intensive program focused on developing statistics, computing, and machine learning expertise.
+      i18n: company_b_desc
+    date:
+      detail: Aug 2009 - Aug 2013
+      i18n: company_b_date
+    job:
+      detail: Student
+      i18n: company_b_job
+    icon: fa-plus-square
