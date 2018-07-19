@@ -23,7 +23,7 @@
 
 - name: Social Standards and Salary Inclinations Study
   url: https://github.com/sarora/SocialSalaryStudy
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/salary.png
   desc: A study conducted as a part of Masters course to determine whether a person's social standards are correlated with a person's expected salary. Collected responses from over 100
         respondents through Survey Monkey. Used R for data preprocessing and wrangling. Used generalized linear model (GLM) for modelling the data.
-        Visit <a title= "github.com/sarora/SocialSalaryStudy" href="https://github.com/sarora/SocialSalaryStudy" target="_blank">repo</a> for more details.   
+        Visit <a title= "github.com/sarora/SocialSalaryStudy" href="https://github.com/sarora/SocialSalaryStudy" target="_blank">repo</a> for more details.
