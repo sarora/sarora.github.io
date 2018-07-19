@@ -24,5 +24,6 @@
 - name: Social Standards and Salary Inclinations Study
   url: https://github.com/sarora/SocialSalaryStudy
   img: /static/assets/img/landing/python.png
-  desc: A group software development project, developed for an undergraduate course. A multiplayer on-rails 3D car Racing simulation, developed in C#, using the XNA framework.
-        Visit <a title= "github.com/sarora/242TopGearElectrified" href="https://github.com/sarora/242TopGearElectrified" target="_blank">repo</a> for more details.
+  desc: A study conducted as a part of Masters course to determine whether a person's social standards are correlated with a person's expected salary. Collected responses from over 100
+        respondents through Survey Monkey. Used R for data preprocessing and wrangling. Used generalized linear model (GLM) for modelling the data.
+        Visit <a title= "github.com/sarora/SocialSalaryStudy" href="https://github.com/sarora/SocialSalaryStudy" target="_blank">repo</a> for more details.   
