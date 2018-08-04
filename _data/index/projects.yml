@@ -12,7 +12,7 @@
 - name: Twitter Sentiment Analysis - Analyze and classify tweets as either positive or negative
   url: https://github.com/sarora/TwitterSentimentAnalysis
   img: /static/assets/img/landing/NLP_Icon.png
-  desc: Queries tweets through the Twitter API and applies classification algorithms to categorize
+  desc: Queries tweets through the Twitter API using Python and applies classification algorithms to categorize
         tweet as either positive or negative sentiment. Visit <a title= "github.com/sarora/TwitterSentimentAnalysis" href="https://github.com/sarora/TwitterSentimentAnalysis" target="_blank">repo</a> for more details.
 
 - name: Wine Selector
