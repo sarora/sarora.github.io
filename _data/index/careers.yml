@@ -1,6 +1,24 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: <a title= "stradigi.ai" href="https://www.stradigi.ai/" target="_blank">Stradigi AI | Montreal, Canada</a>
+    i18n: company_a
+  desc:
+    detail: Working in a team of 9 <ul style="list-style-type:disc">
+      <li>Create data pre-processing and transformation libraries for data cleaning and manipulation using python for Stradigi's AI platform. <br/><br/></li>
+      <li>Benchmark and analyze Stradigi’s Machine Learning algorithms against the current state of the art to ensure cutting edge technology.<br/><br/></li>
+      <li>Build Machine Learning (ML) pipelines for Straidgi's AI platform, from data ingest through to solutions for specific use cases like sentiment analysis, document classification, name-entity recognition, image classification, image segmentation, etc.<br/><br/></li>
+      <li>Work closely with Researchers and AI Developers in an Agile setting to ensure production quality software, and efficacy of Machine Learning models being used.</li></ul>
+    i18n: company_a_desc
+  date:
+    detail: Nov 2019 - Present
+    i18n: company_a_date
+  job:
+    detail: Data Science Intern (Industry Capstone Project)
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: <a title= "unbounce.com" href="https://unbounce.com/" target="_blank">Unbounce | Vancouver, Canada</a>
     i18n: company_a
   desc:
@@ -13,7 +31,7 @@
     detail: April 2018 - Jun 2018
     i18n: company_a_date
   job:
-    detail: Data Scientist (Industry Capstone Project)
+    detail: Data Science Intern (Industry Capstone Project)
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -44,7 +62,7 @@
     detail: May 2016 - Dec 2016
     i18n: company_c_date
   job:
-    detail: Data Analyst (Contract)
+    detail: Data Scientist (Contract)
     i18n: company_c_job
   icon: fa-plus-square
 
