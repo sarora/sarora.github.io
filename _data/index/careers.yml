@@ -8,7 +8,6 @@
     detail: Working in a team of 7 <ul style="list-style-type:disc">
       <li>Built a Machine Learning(ML) pipeline to predict auto insurance premiums to maximize pre-determined objective functions like profit, growth in units, growth in premium, etc. <br/><br/></li>
       <li>Monitored and diagnosed models in production to examine for ML drifts and took measures to ensure pre-determined desired level of performance..<br/><br/></li>
-      <li>Build Machine Learning (ML) pipelines for Straidgi's AI platform, from data ingest through to solutions for specific use cases like sentiment analysis, document classification, name-entity recognition, image classification, image segmentation, etc.<br/><br/></li>
       <li>Worked closely with Actuarial Analysts and AI Developers in an Agile setting to ensure production quality software.</li></ul>
     i18n: company_a_desc
   date:
