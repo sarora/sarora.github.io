@@ -1,20 +1,40 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
+
+- name:
+    detail: <a title= "Realtor.com" href="https://www.realtor.com" target="_blank">Realtor.com | Toronto, Canada</a>
+    i18n: company_c
+  desc:
+    detail: <ul style="list-style-type:disc">
+      <li>Designed, developed and deployed a Machine Learning (ML) pipeline to forecast monthly leads in US zip codes for next year inventory planning decreasing complexity, reducing run time, and improving accuracy by 20%. <br/><br/></li>
+      <li>Performed ad-hoc analysis tasks and communicated findings to key decision makers to help facilitate the decision making process. <br/><br/></li>
+      <li>Performed code and design reviews to ensure a healthy codebase and prevent bugs, all while fostering knowledge sharing and collaboration. </li> </ul>
+    i18n: company_b_desc
+  date:
+    detail: June 2021 - Present
+    i18n: company_c_date
+  job:
+    detail: Senior Data Scientist
+    i18n: company_c_job
+  icon: fa-plus-square
+
+
+
 - name:
     detail: <a title= "Intact Labs" href="https://www.intactlab.ca/ target="_blank">Intact Labs | Toronto, Canada</a>
     i18n: company_a
   desc:
     detail: Working in a team of 7 <ul style="list-style-type:disc">
-      <li>Built a Machine Learning(ML) pipeline to predict auto insurance premiums to maximize pre-determined objective functions like profit, growth in units, growth in premium, etc. <br/><br/></li>
-      <li>Monitored and diagnosed models in production to examine for ML drifts and took measures to ensure pre-determined desired level of performance..<br/><br/></li>
+      <li>Built a Machine Learning(ML) pipeline to predict business retention to maximize pre-determined objective functions like profit, growth in units, growth in premium, etc. <br/><br/></li>
+      <li>Monitored and diagnosed models in production to examine for ML drifts and took measures to ensure pre-determined desired level of performance.<br/><br/></li>
       <li>Worked closely with Actuarial Analysts and AI Developers in an Agile setting to ensure production quality software.</li></ul>
     i18n: company_a_desc
   date:
     detail: June 2020 - Present
     i18n: company_a_date
   job:
-    detail: Data Scientist
+    detail: Data Scientist II
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -66,23 +86,6 @@
   job:
     detail: Student
     i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: <a title= "brewbound.co.nz" href="https://brewbound.co.nz" target="_blank">BrewBound | Auckland, New Zealand</a>
-    i18n: company_c
-  desc:
-    detail: Working in a team of 2 <ul style="list-style-type:disc">
-      <li>Designed and maintained SQL scripts on a regular basis to generate meaningful datasets from marketing data. <br/><br/></li>
-      <li>Identified trends, patterns, and relationships in marketing data to provide answers to business questions, particularly regarding the effectiveness of various advertising channels. <br/><br/></li>
-      <li>Communicated findings to key decision makers to help facilitate the decision making process.</li> </ul>
-    i18n: company_b_desc
-  date:
-    detail: May 2016 - Dec 2016
-    i18n: company_c_date
-  job:
-    detail: Data Scientist (Contract)
-    i18n: company_c_job
   icon: fa-plus-square
 
 - name:
