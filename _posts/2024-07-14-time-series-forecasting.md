@@ -4,7 +4,7 @@ title:  "Time-Series Forecasting using Transformers, Ensembling, and Meta-Learne
 date:   2024-07-14
 desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
 keywords: "time-series forecasting"
-categories: [Programming]
+categories: [HTML]
 tags: [ensemble models, meta-learners, Metatron, neural networks, Realtor.com, time-series forecasting, transformers]
 icon: icon-html
 ---
