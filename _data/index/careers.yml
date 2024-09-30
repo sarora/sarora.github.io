@@ -9,12 +9,10 @@
     detail: <ul style="list-style-type:disc">
       <li>Designed, developed and deployed a Machine Learning (ML) pipeline to forecast monthly leads in US zip codes for next year inventory planning decreasing complexity, reducing run time, and improving accuracy by 20%. <br/><br/></li>
   
-   <li>Optimized targeting strategy for acquiring new customers by developing calibrated predictive models and providing the sales team with a curated call list. Conducted A/B testing to compare strategies, achieving statistically significant improvements: a 30% increase in conversion rates, higher annualized contract value, and improved sales efficiency. <br/><br/>
+   <li>Optimized targeting strategy for acquiring new customers by developing calibrated predictive models and providing the sales team with a curated call list. Conducted A/B testing to compare strategies, achieving statistically significant improvements: a 30% increase in conversion rates, higher annualized contract value, and improved sales efficiency. <br/><br/></li>
   
-  </li>
-  
-  <li>Performed ad-hoc analysis tasks and communicated findings to key decision makers to help facilitate the decision making process. <br/><br/></li>
-    <li>Performed code and design reviews to ensure a healthy codebase and prevent bugs, all while fostering knowledge sharing and collaboration. </li> </ul>
+   <li>Performed ad-hoc analysis tasks and communicated findings to key decision makers to help facilitate the decision making process. <br/><br/></li>
+      <li>Performed code and design reviews to ensure a healthy codebase and prevent bugs, all while fostering knowledge sharing and collaboration. </li> </ul>
     i18n: company_b_desc
   date:
     detail: June 2021 - Present
