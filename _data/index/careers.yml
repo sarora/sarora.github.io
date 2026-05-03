@@ -5,7 +5,7 @@
 - name:
     detail: <a title= "Realtor.com" href="https://www.realtor.com" target="_blank">Realtor.com | Toronto, Canada</a>
     i18n: company_c
-    desc:
+  desc:
     detail: >
       <ul style="list-style-type:disc">
         <li>Designed, developed and deployed a Machine Learning (ML) pipeline to forecast monthly leads in US zip codes for next year inventory planning decreasing complexity, reducing run time, and improving accuracy by 20%. <br/><br/></li>
